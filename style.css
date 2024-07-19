@@ -395,7 +395,7 @@ FAQ section Design
 } 
 .book-food{
   width:100%;
-  background:url('../images/bg/bg-3.jpg') no-repeat center;
+  background:url('images/bg/bg-3.jpg');
   background-size: cover;
   background-attachment: fixed;
   background-position:0 71.9125px;
